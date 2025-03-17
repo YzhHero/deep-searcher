@@ -197,3 +197,4 @@ pyrightconfig.json
 .DS_Store
 
 *.db
+config.yaml
